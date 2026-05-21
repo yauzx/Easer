@@ -159,4 +159,11 @@
     <string name="title_welcome_message_privacy">Privasi!</string>
     <string name="alert_update_storage_data_title">Versi data lama ditemukan</string>
     <string name="alert_update_storage_data">Pilih \"Konversi Data\" dalam pengaturan untuk memperbarui data Anda ke format baru, untuk kompatibilitas.</string>
+    <string name="message_future_change_title">Akan segera berubah</string>
+    <string name="help_script">\"Skrip\" adalah wadah logika. Hubungkan sebuah event atau condition dengan sebuah profile di dalam skrip, agar Easer tahu untuk memuat/menjalankan profile itu saat event terjadi, atau condition terpenuhi.\nAda juga fungsi yang lebih lanjut, misalnya event terbalik.\nSilakan merujuk ke <a href="https://github.com/renyuneyun/Easer/wiki">dokumentasi</a> untuk info lebih lanjut.</string>
+    <string name="help_event">\"Event\" merepresentasikan kejadian singkat (instan) pada perangkat Anda, atau secara jarak jauh.\nMisalnya, menerima notifikasi, atau tag NFC dipindai.\nSilakan merujuk ke <a href="https://github.com/renyuneyun/Easer/wiki">dokumentasi</a> untuk info lebih lanjut.</string>
+    <string name="help_condition">\"Condition\" merepresentasikan kondisi yang berlangsung lama (tetapi biasanya tidak selamanya) pada perangkat Anda atau secara jarak jauh.\nMisalnya, saat terhubung ke Wi-Fi, atau saat layar mati.\nSilakan merujuk ke <a href="https://github.com/renyuneyun/Easer/wiki">dokumentasi</a> untuk info lebih lanjut.</string>
+    <string name="help_profile">\"Profile\" adalah sekumpulan operasi. Setiap operasi merepresentasikan jenis tindakan tertentu.\nMisalnya, menyalakan Bluetooth, atau mengirim SMS.\nSilakan merujuk ke <a href="https://github.com/renyuneyun/Easer/wiki">dokumentasi</a> untuk info lebih lanjut.</string>
+    <string name="category_operation_android">Android</string>
+    <string name="category_operation_system_config">Konfigurasi sistem</string>
 </resources>
