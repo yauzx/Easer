@@ -164,4 +164,20 @@
     <string name="ringer_mode_dnd_alarms">闹钟</string>
     <string name="label_operation_ringer_mode_notification_listener_service">切换静音模式</string>
     <string name="operation_send_notification">发送通知</string>
+    <string name="operation_wifi">Wi-Fi</string>
+    <string name="operation_wireguard">Wireguard</string>
+    <string name="o_wireguard__set_tunnel_state">设置隧道状态</string>
+    <string name="o_wireguard_tunnel_name">隧道名称</string>
+    <string name="o_wireguard_tunnel_name_hint">Wireguard 中的隧道名</string>
+    <string name="o_wireguard_tunnel_state">隧道状态</string>
+    <string name="usource__enabled_yes">是</string>
+    <string name="usource__enabled_no">否</string>
+    <string name="usource_battery_level">电池电量</string>
+    <string name="usource_bt_device_dynamics_device_address">设备地址</string>
+    <string name="usource_bluetooth_enabled">蓝牙已启用</string>
+    <string name="usource_bluetooth_enabled_bluetooth_is_enabled">蓝牙已启用？</string>
+    <string name="usource_calendar">日历</string>
+    <string name="calendar_select_dialog_title">选择日历</string>
+    <string name="text_calendar_name">日历名称</string>
+    <string name="text_calendar">日历</string>
 </resources>
