@@ -914,4 +914,4 @@ CHANGELOG
 	* Add Start and Stop to the menu of OutlineFragment
 
 * v0.2
-	* Redesign the bachground mechanism of Easer
+	* Redesign the bachground mechanism of Easer 
